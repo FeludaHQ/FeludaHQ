@@ -1,2 +1,2 @@
-# FeludaHQ
-This is a repository of FeludaHQ Website.
+# feludai
+This is a repository of feludai Website.
